@@ -21,7 +21,7 @@ Here is my tentative outline of major content categories:
 
 --------------------
 
-Research Content (to be included later)
+Research Content (to be included at a later time)
 
 _____
 

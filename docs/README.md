@@ -34,7 +34,7 @@ This material is distributed under the Attribution-ShareAlike 4.0 International 
 
 *NAVIGATION*
 
-* For Web: [OnAgents.org](https://onagents.org)
+* For Web: [OnAgents.org](https://dazzaji.github.io/onagents_dev/))
 * For Markdown: [View Me on GitHub](https://github.com/dazzaji/onagents/tree/main/docs)
 
 -------
